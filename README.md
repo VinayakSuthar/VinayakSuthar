@@ -21,9 +21,9 @@
 
 ## 💻 My Tech Stack:
 
-ReactJs | Next.js | TypeScript | JavaScript | Tailwind Css | Material UI | Docker | Vitest | HTML | CSS | Vite
+ReactJs | Next.js | TypeScript | JavaScript | Tailwind Css | Material UI | Redux | Docker | Vitest | HTML | CSS | Vite
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,docker,vitest,html,css,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,materialui,docker,redux,vitest,html,css,vite)](https://skillicons.dev)
 
 ## 🎮 When I'm AFK:
 
