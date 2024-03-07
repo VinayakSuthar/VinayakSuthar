@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vinayak Suthar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working as **Frontend Developer**
+- 🔭 Strong foundation in React.js and JavaScript
 
-- 👨‍💻 All of my projects are available at [https://github.com/VinayakSuthar](https://github.com/VinayakSuthar?tab=repositories)
+- 👨‍💻  Adept at applying React design concepts
+
+- 📝 Proficient in Test-Driven Development (TDD) with Vitest and Cypress
+
+- 🤝 Significant contributions to web3 development
+
+- 👨‍💻 Constructed Chrome extensions from the ground up, enriching functionality for users
 
 - 📫 Reach me at **vinayak.suthar@outlook.com**
 
-- 👀 I’m interested in Anime and gaming.
+- 👀 I’m interested in 💢 Anime and 🎮 gaming.
 
 <div align="center">
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
+<a href="https://linkedin.com/in/vinayak-suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayaksuthar" height="30" width="40" /></a>
 <a href="https://twitter.com/vinayaksuthar4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayaksuthar4" height="30" width="40" /></a>
 <a href="https://instagram.com/vinayak_1337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak_1337" height="30" width="40" /></a>
 </p>
