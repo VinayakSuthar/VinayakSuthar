@@ -55,6 +55,6 @@
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 ## 🏆 My Stats:
-
+![](https://komarev.com/ghpvc/?username=vinayakSuthar)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayaksuthar&show_icons=true&locale=en&layout=compact" alt="vinayaksuthar" /></p>
 </div>
