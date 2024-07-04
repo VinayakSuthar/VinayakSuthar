@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Vinayak Suthar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  
+ 🔭 Strong foundation in React.js and JavaScript
 
-- 🔭 Strong foundation in React.js and JavaScript
+ 👨‍💻 Adept at applying React design concepts
 
-- 👨‍💻 Adept at applying React design concepts
+ 📝 Proficient in Test-Driven Development (TDD) with Vitest and Cypress
 
-- 📝 Proficient in Test-Driven Development (TDD) with Vitest and Cypress
+ 🤝 Significant contributions to web3 development
 
-- 🤝 Significant contributions to web3 development
+ 👨‍💻 Constructed Chrome extensions from the ground up, enriching functionality for users
 
-- 👨‍💻 Constructed Chrome extensions from the ground up, enriching functionality for users
+ 📫 Reach me at **vinayak.suthar@outlook.com**
 
-- 📫 Reach me at **vinayak.suthar@outlook.com**
-
-- 👀 I’m interested in 💢 Anime and 🎮 gaming.
-
+ 👀 I’m interested in 💢 Anime and 🎮 gaming. 
+</div>
 <div align="center">
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
@@ -45,6 +46,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ## 🎮 When I'm AFK:
 
