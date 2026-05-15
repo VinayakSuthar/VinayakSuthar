@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header&text=Vinayak+Suthar&fontColor=e2e8f0&fontSize=40&fontAlignY=55&animation=fadeIn&desc=frontend+architect+who+ships+fullstack&descSize=16&descAlignY=78&descColor=94a3b8" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=building+things+that+don't+break+in+prod;react+%E2%80%A2+next.js+%E2%80%A2+node+%E2%80%A2+postgres;open+to+product+startups+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=building+things+that+don't+break+in+prod;react+%E2%80%A2+next.js+%E2%80%A2+node+%E2%80%A2+postgres)](https://git.io/typing-svg)
 
 </div>
 
