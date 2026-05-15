@@ -1,64 +1,149 @@
-<h1 align="center">Hi 👋, I'm Vinayak Suthar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <div align="center">
-  
- 🔭 Strong foundation in React.js and JavaScript
 
- 👨‍💻 Adept at applying React design concepts
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header&text=Vinayak+Suthar&fontColor=e2e8f0&fontSize=40&fontAlignY=55&animation=fadeIn&desc=frontend+architect+who+ships+fullstack&descSize=16&descAlignY=78&descColor=94a3b8" width="100%"/>
 
- 📝 Proficient in Test-Driven Development (TDD) with Vitest and Cypress
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=building+things+that+don't+break+in+prod;react+%E2%80%A2+next.js+%E2%80%A2+node+%E2%80%A2+postgres;open+to+product+startups+%F0%9F%9A%80)](https://git.io/typing-svg)
 
- 🤝 Significant contributions to web3 development
-
- 👨‍💻 Constructed Chrome extensions from the ground up, enriching functionality for users
-
- 📫 Reach me at **vinayak.suthar@outlook.com**
-
- 👀 I’m interested in 💢 Anime and 🎮 gaming. 
-</div>
-<div align="center">
-<h2 align="center">🔗 Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/vinayak-suthar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayaksuthar" height="30" width="40" /></a>
-<a href="https://twitter.com/vinayaksuthar4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayaksuthar4" height="30" width="40" /></a>
-<a href="https://instagram.com/vinayak_1337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinayak_1337" height="30" width="40" /></a>
-</p>
 </div>
 
-<div align="center">
+---
 
-## 💻 My Tech Stack:
+### who am i
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+senior frontend engineer with 3+ years across healthcare, fintech, and web3 — promoted for owning architecture, not just execution.
+
+lately i'm going deeper into fullstack and gravitating toward product startups where i can shape *how* the frontend gets built, not just maintain it.
+
+when i'm not shipping features, i'm building developer tooling, contributing to open source, or grinding system design.
+
+---
+
+### things i've built that are actually public
+
+| project | what it is | stack |
+|--------|-----------|-------|
+| 🛠️ [react-pro-cli](https://github.com/VinayakSuthar/react-pro-cli) | CLI that scaffolds production-ready React projects — ESLint, Prettier, Husky, all pre-wired | Node.js, CLI |
+| 🧩 [gmail-chrome-extension](https://github.com/VinayakSuthar) | Chrome extension that adds team-aware autocomplete to Gmail — detects team emails, surfaces all members inline | Chrome MV3, JS |
+| 🤖 AI Candidate Evaluation Platform | assesses how well candidates use AI agents to solve real engineering problems (WIP) | Next.js, FastAPI, PostgreSQL |
+
+---
+
+### what i work with
+
+**Frontend**
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & DB**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+**Tooling & Infra**
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## 🎮 When I'm AFK:
+**Other**
+
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### stats
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=VinayakSuthar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### when i'm afk
+
+🎮 **gaming**
 
 ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white) &nbsp;
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) &nbsp;
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-## 🏆 My Stats:
-![](https://komarev.com/ghpvc/?username=vinayakSuthar)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayaksuthar&show_icons=true&locale=en&layout=compact" alt="vinayaksuthar" /></p>
+god of war · ghost of tsushima · open-world RPGs. big on story-driven games.
+
+![Twitch](https://img.shields.io/badge/Twitch-%239B42F5.svg?style=for-the-badge&logo=Twitch&logoColor=white) &nbsp;
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+📚 **books**
+
+![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
+
+mostly non-fiction, system design, and the occasional sci-fi rabbit hole.
+
+🎌 **anime**
+
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+
+always mid-season on something. don't ask me how many shows i'm watching simultaneously.
+
+🎵 **music**
+
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) &nbsp;
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+🌐 **down the rabbit hole**
+
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+
+---
+
+### open to
+
+- **OSS collabs** — especially developer tooling, DX, or anything React-ecosystem
+- **interesting problems** — if you're building something weird and ambitious, let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-suthar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayak.suthar@outlook.com)
+
+---
+
+### how i work
+
+- **i read the design before touching code** — figma-first, component boundaries decided before the first file is created
+- **i think in systems, not features** — state management, data-fetching patterns, and folder structure are architectural decisions, not afterthoughts
+- **i ship incrementally** — PRs are small, commits are meaningful, CI is non-negotiable
+- **i write code for the next person** — readable > clever, always
+- **i use AI as a force multiplier** — claude code in my workflow daily, but i own the decisions
+
+---
+
+### where to find me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-suthar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayak.suthar@outlook.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakSuthar)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=80&section=footer" width="100%"/>
 </div>
