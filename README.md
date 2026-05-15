@@ -16,17 +16,14 @@ lately i'm going deeper into fullstack and gravitating toward product startups w
 
 when i'm not shipping features, i'm building developer tooling, contributing to open source, or grinding system design.
 
----
-
-### things i've built that are actually public
-
-| project | what it is | stack |
-|--------|-----------|-------|
-| 🛠️ [react-pro-cli](https://github.com/VinayakSuthar/react-pro-cli) | CLI that scaffolds production-ready React projects — ESLint, Prettier, Husky, all pre-wired | Node.js, CLI |
-| 🧩 [gmail-chrome-extension](https://github.com/VinayakSuthar) | Chrome extension that adds team-aware autocomplete to Gmail — detects team emails, surfaces all members inline | Chrome MV3, JS |
-| 🤖 AI Candidate Evaluation Platform | assesses how well candidates use AI agents to solve real engineering problems (WIP) | Next.js, FastAPI, PostgreSQL |
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![0% Optimized](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![Made with JavaScript](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
 ---
+
 
 ### what i work with
 
@@ -118,9 +115,6 @@ always mid-season on something. don't ask me how many shows i'm watching simulta
 
 - **OSS collabs** — especially developer tooling, DX, or anything React-ecosystem
 - **interesting problems** — if you're building something weird and ambitious, let's talk
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-suthar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayak.suthar@outlook.com)
 
 ---
 
